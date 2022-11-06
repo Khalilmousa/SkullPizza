@@ -13,5 +13,5 @@ As I continue to work on this site I will be adding:
 - Shopping cart functionality that automatically calculates the subtotal and total for the order
 
 ## Credits
-[Stock Images from Pexels.com](https://www.pexels.com/)
-[Logo created with Canva](https://www.canva.com/)
+- [Stock Images from Pexels.com](https://www.pexels.com/)
+- [Logo created with Canva](https://www.canva.com/)
